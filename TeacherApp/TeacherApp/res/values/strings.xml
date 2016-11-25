@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic Ball</string>
+    <string name="Greeting">Нажимай!</string>
+    <string name="zero">Ноль!</string>
+    <string name="one">Один!</string>
+    <string name="two">Два!</string>
+    <string name="next">Вперёд!</string>
+    <string name="menu">Меню</string>
+    <string name="test">Тест</string>
+    <string name="result">Результат</string>
+    <string name="play">Играть</string>
+    <string name="inmenu">В меню</string>
+    <string name="time15">00:15</string>
+    <string name="right">Верно</string>
+    <string name="end">Время вышло(</string>
+    <string name="errorlogin">Неверный логин и/или пароль</string>
+    <string name="noemail">Введите e-mail</string>
+    <string name="erremail">Неверно введён e-mail</string>
+    <string name="nopass">Введите пароль</string>
+    <string name="veryshortpass">Слишком короткий пароль</string>
+    <string name="nopass1">Подтвердите пароль</string>
+    <string name="otherpass">Пароли не совпадают</string>
+    <string name="emailalreadywas">Этот e-mail уже зарегистрирован</string>
+    <string name="noconnect">Не удаётся соединиться с сервером. Проверьте доступ к Интернету.</string>
+    <string name="registration">Регистрация</string>
+    <string name="create">Создать тест</string>
+    <string name="editqq">Введите вопрос</string>
+    <string name="nochoose">Вы не выбрали тип вопроса</string>
+    <string name="editrightans">Введите верный ответ</string>
+    <string name="otherans">Введите другие ответы (всего не более 8)</string>
+    <string name="dialog_1">Dialog 1</string>
+	<string name="dialog_2">Dialog 2</string>
+	<string name="message_text">Text of your message</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="maybe">Maybe</string>
+	<string name="number1">Вариант №1</string>
+	<string name="numberqq">Вопрос №</string>
+	<string name="mustnot">Больше нельзя</string>
+	<string name="lessnot">Меньше нельзя</string>
+	<string name="varans">Введите варинты верного ответа\n(всего не более 8)</string>
+	<string name="forgetred">Вы забыли закончить редактирование вопроса №</string>
+	<string name="cannotdiminish">Убавлять нечего</string>
+	<string name="cannotadd">Добавлять больше нельзя\n(пожалейте своих учеников)</string>
+	<string name="noans">В тесте нет вопросов</string>
+    <color name="light_color">#F0E68C</color>
+	<color name="dark_color">#370903</color>
+</resources>
